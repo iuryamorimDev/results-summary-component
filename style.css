@@ -90,13 +90,11 @@ li {
   padding-bottom: 20px;
 }
 .right-side {
-  /* background-color: rgb(255, 255, 255); */
   padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 30px;
   padding-right: 30px;
   border-radius: 0 18px 18px 0;
-  /* height: 100%; */
 }
 .right-side .primeiro {
   padding-bottom: 12px;
